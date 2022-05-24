@@ -1,0 +1,16 @@
+html{
+    font-family: sans-serif;
+    /* font-size: 65.5%; */
+}
+
+body{
+    width: 50%;
+    max-width: 50rem;
+    min-width: 30rem;
+    margin: 0 auto;
+}
+
+.ultimoResultado{
+    color: white;
+    padding: 3px;
+}
